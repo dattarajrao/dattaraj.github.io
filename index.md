@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Dattaraj Rao
 
-You can use the [editor on GitHub](https://github.com/dattarajrao/dattarajrao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Chief Data Scientist | Author “Keras to Kubernetes" | ex GE | 11 Patents <br/>
+https://www.linkedin.com/in/dattarajrao | dattarajrao@yahoo.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+22+ years' global experience in building analytics Products and Services. Author of “Keras to Kubernetes - Journey of a ML model to Production”. Thought leader in AI, featured in VentureBeat, TheNewStack, InfoQ and presented talks, keynotes at top AI conferences. Multiple papers published and 11 patents granted on computer vision for inspection technology.
 
-### Markdown
+Managing a world-class AI Research lab at Persistent that constantly consumes and generates state-of-the-art (SOTA) in areas like Natural Language Understanding (NLU), Explainable AI, Recommender systems, Privacy-preserving ML and AI for Cybersecurity. Building innovative offerings around Responsible AI, Federated Learning, Knowledge Graphs for BFSI and Healthcare domains. Championing a MLOps framework based on open source tools, focused on model lifecycle management, reproducibility, fairness, transparency and governance. Building an enterprise Cybersecurity platform powered by Security Data Lake and a model repository for threat hunting, UEBA and adaptive incident response.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Previously, held several Technology leadership roles at General Electric (GE) working for Global Research, Power and Transportation. At GE Power, worked as Chief Software Architect for the RM&D system monitoring more than 1000 Gas Turbines worldwide. At GE Transportation (now Wabtec), incubated locomotive-based video track inspection from idea into a $200MM commercial offering called LocoVISION.
 
-```markdown
-Syntax highlighted code block
+## Experience
+- **Chief Data Scientist - Persistent (2019-Present)** <br/>
+Driving strategic initiatives in advanced language models, knowledge graphs (KG), contextual bandits, federated learning (FL), AI for cybersecurity and more. Championed Persistent’s Responsible AI offering that helps drive fast, automated, low-code MLOps pipelines with analysis of model interpretability, explainability, fairness, bias and causal inference. Developed knowledge platform offering that leverages SOTA language models (BERT, BioBERT), graph databases, embeddings and GNNs to enable diverse outcomes from drug discovery￼, pharmacodynamics to fraud prediction and recommender systems. Building an adaptive enterprise-wide cybersecurity platform to enable network anomaly detection (using auto-encoders), application logs analysis (graph algorithms) and adaptive incident response (contextual bandits).
 
-# Header 1
-## Header 2
-### Header 3
+- **Principal Architect - GE Transportation (2013-2019)** <br/>
+Played role of Innovation Leader for a 400+ strong India Engineering team. Championed the remote Track Inspection solution using video from Locomotive-mounted camera called LocoVISION. Incubated LocoVISION inspection from an idea to an Industrial Internet solution with state-of-the-art video processing and Computer Vision algorithms. Extended this idea to build demonstrations around driver fatigue monitoring, thermal camera inspection and PTC assets inventory management.
+Architected a Kubernetes-based Cloud Platform to deliver a standardized path-to-production and DevOps for Machine Learning (ML) algorithms. Empowered Data Scientists with cutting-edge tools like AI workbenches (H2O.ai, Jupyter), ML workflow pipelines (Kubeflow), Model Deployment (TensorFlow-Serving) and distributed runtimes with BigData and GPU clusters.
 
-- Bulleted
-- List
+- **Chief Software Architect - GE Power (2004-2013)** <br/>
+Developed the Technology road-map for GE Power's Remote Monitoring & Diagnostics (RM&D) center at Atlanta that monitors more than 2000 Gas Turbines 24/7 across the world. Championed the simplification of overall System Architecture for Edge to Back-office data transfer, scalable Analytics and Business Intelligence. Incubated major initiatives like Common Rules Engine program - that integrates individual AI engines like Fuzzy Inference and Neural Networks into a unified environment with shared Asset model, Orchestration and Dashboards. Actively represented RM&D in synergy efforts with other Power businesses like Oil & Gas and Electric Utilities. Adopted best practices like Common Information Model (CIM) from Utilities domain and applied to Power-Gen by adopting standards like OpenO&M.
 
-1. Numbered
-2. List
+- **Research Engineer - GE Global Research (2000-2004)** <br/>
+Led the development of a Knowledge-based Engineering (KBE) solution for Transportation CAD systems. Leveraged System-level thinking to co-relate high level requirements and flow them down to individual component geometry changes. Developed solutions using Unigraphics and Knowledge Fusion to capture Design Knowledge into the system - through multiple interviews with Designers understanding their thought process. Achieved significant reduction in model building time and improved overall Design Quality.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dattarajrao/dattarajrao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Thought Leadership
+- Author of the book **Keras to Kubernetes** published by Wiley
+- 11 Patents granted in the US on Computer Vision for Railway inspection
+- Articles in major publications like VentureBeat, InfoQ and TheNewStack
+- Workshops and Talks at major conferences like CODS-COMAD and WSDM
