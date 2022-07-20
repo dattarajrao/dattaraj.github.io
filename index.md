@@ -1,7 +1,11 @@
 ## Dattaraj Rao
+![Dattaraj Rao](https://avatars.githubusercontent.com/u/4393501?v=4)
 
-Chief Data Scientist | Author “Keras to Kubernetes" | ex GE | 11 Patents <br/>
-https://www.linkedin.com/in/dattarajrao | dattarajrao@yahoo.com
+- Chief Data Scientist @ Persistent 
+- Author “Keras to Kubernetes"
+- 19 years @ GE, 11 Patents
+- https://www.linkedin.com/in/dattarajrao 
+- dattarajrao@yahoo.com
 
 ## About me
 22+ years' global experience in building analytics Products and Services. Author of “Keras to Kubernetes - Journey of a ML model to Production”. Thought leader in AI, featured in VentureBeat, TheNewStack, InfoQ and presented talks, keynotes at top AI conferences. Multiple papers published and 11 patents granted on computer vision for inspection technology.
