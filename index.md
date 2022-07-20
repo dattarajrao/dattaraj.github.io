@@ -4,8 +4,7 @@
 - Chief Data Scientist @ Persistent 
 - Author “Keras to Kubernetes"
 - 19 years @ GE, 11 Patents
-- dattarajrao@yahoo.com
-> **Detailed profile on LinkedIn:** https://www.linkedin.com/in/dattarajrao 
+> **View detailed profile on <a href='https://www.linkedin.com/in/dattarajrao'>LinkedIn</a> or connect via <a href='mailto:dattarajrao@yahoo.com' target='_blank'>email</a>**
 
 ## About me
 22+ years' global experience in building analytics Products and Services. Author of “Keras to Kubernetes - Journey of a ML model to Production”. Thought leader in AI, featured in VentureBeat, TheNewStack, InfoQ and presented talks, keynotes at top AI conferences. Multiple papers published and 11 patents granted on computer vision for inspection technology.
@@ -14,7 +13,7 @@ Managing a world-class AI Research lab at Persistent that constantly consumes an
 
 Previously, held several Technology leadership roles at General Electric (GE) working for Global Research, Power and Transportation. At GE Power, worked as Chief Software Architect for the RM&D system monitoring more than 1000 Gas Turbines worldwide. At GE Transportation (now Wabtec), incubated locomotive-based video track inspection from idea into a $200MM commercial offering called LocoVISION.
 
-> **My workshop on Responsible AI at NASSCOM event:** https://youtu.be/ckgdVVDs7BM
+> **My workshop on <a href='https://youtu.be/ckgdVVDs7BM' target='_blank'>Responsible AI</a>**
 
 ## Experience
 - **Chief Data Scientist - Persistent (2019-Present)** <br/>
@@ -30,10 +29,12 @@ Developed the Technology road-map for GE Power's Remote Monitoring & Diagnostics
 - **Research Engineer - GE Global Research (2000-2004)** <br/>
 Led the development of a Knowledge-based Engineering (KBE) solution for Transportation CAD systems. Leveraged System-level thinking to co-relate high level requirements and flow them down to individual component geometry changes. Developed solutions using Unigraphics and Knowledge Fusion to capture Design Knowledge into the system - through multiple interviews with Designers understanding their thought process. Achieved significant reduction in model building time and improved overall Design Quality.
 
-> **My workshop on MLOps with a Loan approval demo:** https://youtu.be/BhbQLvvw88c
+> **My workshop on <a href='https://youtu.be/BhbQLvvw88c' target='_blank'>MLOps with a live demo</a>**
 
 ## Thought Leadership
 - Author of the book **Keras to Kubernetes** published by Wiley
 - 11 Patents granted in the US on Computer Vision for Railway inspection
 - Articles in major publications like VentureBeat, InfoQ and TheNewStack
 - Workshops and Talks at major conferences like CODS-COMAD and WSDM
+
+> **My patents and publications on <a href='https://scholar.google.com/citations?user=7eBb9KcAAAAJ' target='_blank'>Google Scholar</a>**
