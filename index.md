@@ -38,3 +38,5 @@ Led the development of a Knowledge-based Engineering (KBE) solution for Transpor
 - Workshops and Talks at major conferences like CODS-COMAD and WSDM
 
 > **My patents and publications on <a href='https://scholar.google.com/citations?user=7eBb9KcAAAAJ' target='_blank'>Google Scholar</a>**
+
+[![K2K](https://images-na.ssl-images-amazon.com/images/I/512rEl7CbvL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg)](https://www.amazon.com/Keras-Kubernetes-Journey-Learning-Production/dp/1119564832)
